@@ -15,11 +15,9 @@ You're one-stop for recipes, Foodverse is the best app for any type of cooking a
 
 ### Tools:
 
-React.js, React Router, Tailwind CSS
+JavaScript, HTML, CSS.
 
 
 ### Conclusion:
 
 A recipe web application based not only on a list of recipes with ingredients but a database created by food lovers, for food lovers. Search through thousands of the best recipes worldwide and find what you're looking for without leaving your daily routine Give it a go!
-
-### Thanks for visiting this repo!
