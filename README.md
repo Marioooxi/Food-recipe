@@ -17,15 +17,6 @@ You're one-stop for recipes, Foodverse is the best app for any type of cooking a
 
 React.js, React Router, Tailwind CSS
 
-### How to use this repo?
-
-Download or clone this repo and run the following command in the terminal:
-
-```
-npm install
-or
-npm i
-```
 
 ### Conclusion:
 
